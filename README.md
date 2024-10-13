@@ -8,7 +8,7 @@ This project analyzes student exam scores using the "Students Exam Scores: Exten
 - **Data Preprocessing**: Handling missing values, outliers, and normalization to ensure data quality.
 - **Statistical Analysis**: Identifying significant factors affecting student performance, such as parental education and dietary habits.
 - **Data Visualization**: Clear visual representations of relationships between variables and student outcomes using Matplotlib and Seaborn.
-- 
+  
 ## Tools and Technologies
 - **Programming Language**: Python
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
